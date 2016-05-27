@@ -1,14 +1,14 @@
 layout_spectrum: 0.02375855
-typography_spectrum: 0.9695873
 color:
   saturation: 0.3104771
   lightness: 0.8044098
   brandStrength: 0.4107601
-  rhythmicContrast: 0.508974
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#ADBD8E'
+    - '#5A6932'
+    - '#CEECA4'
+    - '#2A2522'
+  rhythmicContrast: 0.508974
+typography_spectrum: 0.9695873
 name: Improv Bootcamp
